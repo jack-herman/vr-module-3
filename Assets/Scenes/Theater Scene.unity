@@ -541,6 +541,10 @@ PrefabInstance:
       propertyPath: onButtonDown.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_BoolArgument
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5719746590492241754, guid: 71c38abfc09a24a46852ccf8719ad611, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7089ee3abf206de47b1072a799a1f4cf, type: 2}
     - target: {fileID: 8102717706521598221, guid: 71c38abfc09a24a46852ccf8719ad611, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -1376,6 +1380,10 @@ PrefabInstance:
       propertyPath: onButtonDown.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_BoolArgument
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5719746590492241754, guid: 71c38abfc09a24a46852ccf8719ad611, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 913cb700d7931d3459789a982564b8b3, type: 2}
     - target: {fileID: 8102717706521598221, guid: 71c38abfc09a24a46852ccf8719ad611, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -3255,6 +3263,10 @@ PrefabInstance:
       propertyPath: onButtonDown.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_BoolArgument
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5719746590492241754, guid: 71c38abfc09a24a46852ccf8719ad611, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 14d7d415fee771f48b8fd073aad788ec, type: 2}
     - target: {fileID: 8102717706521598221, guid: 71c38abfc09a24a46852ccf8719ad611, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -3382,7 +3394,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 365860f5972ee68449e211fae9458f96, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3475,6 +3487,10 @@ PrefabInstance:
       propertyPath: onButtonDown.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_BoolArgument
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5719746590492241754, guid: 71c38abfc09a24a46852ccf8719ad611, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d90a1d94717aea440b74d28525ac8d3b, type: 2}
     - target: {fileID: 8102717706521598221, guid: 71c38abfc09a24a46852ccf8719ad611, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -5044,6 +5060,10 @@ PrefabInstance:
       propertyPath: onButtonDown.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 5719746590492241754, guid: 71c38abfc09a24a46852ccf8719ad611, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 34f259c226a8dd94fb254d2055692744, type: 2}
     - target: {fileID: 8102717706521598221, guid: 71c38abfc09a24a46852ccf8719ad611, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -6292,6 +6312,10 @@ PrefabInstance:
       propertyPath: onButtonDown.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_BoolArgument
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5719746590492241754, guid: 71c38abfc09a24a46852ccf8719ad611, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 00b141c7aa611064e81e415a6f21d5ea, type: 2}
     - target: {fileID: 8102717706521598221, guid: 71c38abfc09a24a46852ccf8719ad611, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -6624,6 +6648,10 @@ PrefabInstance:
       propertyPath: onButtonDown.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_BoolArgument
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5719746590492241754, guid: 71c38abfc09a24a46852ccf8719ad611, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 14b3b7fc7a55de34296a7fc7db1effdd, type: 2}
     - target: {fileID: 8102717706521598221, guid: 71c38abfc09a24a46852ccf8719ad611, type: 3}
       propertyPath: m_RootOrder
       value: 1
